@@ -14,7 +14,7 @@ Nous utiliserons Miniconda, qui permet d'installer un environnement minimal pour
 
     cd VOTRE_LOGIN
     curl -o miniconda3.sh https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
-    sh miniconda3.sh
+    sh miniconda.sh
   
   -ATTENTION!! Durant l'exécution du script d'installation, il faut indiquer le chemin d'installation approprié
 
