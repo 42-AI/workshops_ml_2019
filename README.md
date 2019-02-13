@@ -14,7 +14,7 @@ Nous utiliserons Miniconda, qui permet d'installer un environnement minimal pour
 
     cd VOTRE_LOGIN
     curl -o miniconda3.sh https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
-    sh miniconda.sh
+    sh miniconda3.sh
   
   -ATTENTION!! Durant l'exécution du script d'installation, il faut indiquer le chemin d'installation approprié
 
@@ -32,3 +32,17 @@ Nous utiliserons Miniconda, qui permet d'installer un environnement minimal pour
 
     $> which python
     /sgoinfre/goinfre/Perso/VOTRE_LOGIN/miniconda3/bin/python
+
+  -Installer jupyter
+  
+    conda install jupyter
+  
+  -Clonez ce repo dans votre dossier favori
+  
+  -Déplacez-vous dans le repo cloné
+  
+  -Lancer jupyter
+    
+    jupyter notebook
+    
+  -Une fenêtre s'ouvrira dans votre navigateur. Ouvrez le notebook de la semaine sur lequel vous voulez travailler.
