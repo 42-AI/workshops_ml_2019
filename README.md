@@ -35,7 +35,7 @@ Nous utiliserons Miniconda, qui permet d'installer un environnement minimal pour
 
   -Installer jupyter
   
-    conda install jupyter
+    pip install jupyter
   
   -Clonez ce repo dans votre dossier favori
   
